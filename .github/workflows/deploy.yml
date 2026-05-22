@@ -3,7 +3,7 @@ name: Pipeline CI-CD
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 jobs:
